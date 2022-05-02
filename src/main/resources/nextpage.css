@@ -1,0 +1,21 @@
+body{
+background-color: #6699CC;
+}
+
+.list{
+height: 10%;
+    width: 20%;
+    margin 0;
+    position: absolute;
+    top: 30%;
+    left: 41.5%;
+}
+
+.search{
+height: 10%;
+    width: 20%;
+    margin 0;
+    position: absolute;
+    top: 50%;
+    left: 41.5%;
+}

@@ -1,0 +1,29 @@
+body{
+background-color: #6699CC;
+}
+
+.header{
+justify-content: center; text-align: center;
+color: #FF0033;
+}
+
+.firsttxt{
+justify-content: center; text-align: center;
+ margin-top: 10%;
+}
+
+.secondtxt{
+margin 0;
+    position: absolute;
+    top: 30%;
+    left: 46.71%;
+}
+
+.tvbutton{
+height: 5%;
+    width: 17%;
+    margin 0;
+    position: absolute;
+    top: 50%;
+    left: 41.5%;
+}
