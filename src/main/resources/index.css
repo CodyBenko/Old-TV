@@ -5,18 +5,19 @@ background-color: #6699CC;
 .header{
 justify-content: center; text-align: center;
 color: #FF0033;
+font-size: 200px;
 }
 
 .firsttxt{
 justify-content: center; text-align: center;
- margin-top: 10%;
+ margin-top: 5%;
 }
 
 .secondtxt{
 margin 0;
     position: absolute;
-    top: 30%;
-    left: 46.71%;
+    top: 60%;
+    left: 42.2%;
 }
 
 .tvbutton{
@@ -24,6 +25,12 @@ height: 5%;
     width: 17%;
     margin 0;
     position: absolute;
-    top: 50%;
-    left: 41.5%;
+    top: 70%;
+    left: 45.8%;
+}
+.username{
+width:315px;
+}
+.password{
+width:315px;
 }

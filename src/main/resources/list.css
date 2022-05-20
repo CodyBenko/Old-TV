@@ -1,0 +1,28 @@
+body{
+background-color: #6699CC;
+}
+.header{
+justify-content: center; text-align: center;
+color: #FF0033;
+font-size: 206px;
+}
+.tvbutton{
+ height: 5%;
+    width: 20%;
+    margin 0;
+    position: absolute;
+    top: 65%;
+    left: 47%;
+}
+.firsttxt{
+height: 5%;
+    width: 20%;
+    margin 0;
+    position: absolute;
+    top: 64.9%;
+    left: 20.5%;
+}
+.text{
+width: 500px;
+height: 25px;
+}

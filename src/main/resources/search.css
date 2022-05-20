@@ -1,0 +1,31 @@
+body{
+background-color: #6699CC;
+}
+
+.h1{
+justify-content: center; text-align: center;
+color: #FF0033;
+font-size: 250px;
+}
+
+.head{
+    height: 20%;
+    width: 20%;
+    margin 0;
+    position: absolute;
+    top: 53%;
+    left: 36.5%;
+}
+
+.Look_up{
+    height: 5%;
+    width: 7.8%;
+    margin 0;
+    position: absolute;
+    top: 60%;
+    left: 46.1%;
+}
+
+.searchtxt{
+width:500px;
+}
