@@ -19,3 +19,9 @@ height: 10%;
     top: 50%;
     left: 41.5%;
 }
+
+.text{
+justify-content: center; text-align: center;
+color: #FF0033;
+font-size: 148.2px;
+}
